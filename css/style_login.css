@@ -117,9 +117,7 @@ input[type="text"]:hover, input[type="password"]:hover{
 .submit{
 	padding-top:3em;
 }
-.fblogin{
-	margin-left:1em;
-}
+
 input[type="submit"] {
 	float: left;
 	color: #fff;
